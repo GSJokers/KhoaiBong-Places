@@ -1,0 +1,3 @@
+C:\Users\DH\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Marksman\obj\Release\Marksman.csprojResolveAssemblyReference.cache
+C:\Users\DH\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Marksman\obj\Release\Marksman.Properties.Resources.resources
+C:\Users\DH\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Marksman\obj\Release\Marksman.csproj.GenerateResource.Cache
